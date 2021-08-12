@@ -26,4 +26,4 @@ category
         nightlife
         festivel
         blog(topical)
-            categorywise
+            everything in category they aslo in blog
