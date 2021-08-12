@@ -1,0 +1,29 @@
+Overview
+    This project is based on indian incretable places and temples.
+mainly focus on indian clutures and temple.
+This project name is 
+                temple.in 
+                peace.in 
+                bharth temples
+
+
+category
+        destination(northest,western,south,east)
+
+        season(winter,summer,monsoon)
+        package(like friend or family or girl friend)
+            romantic
+            honeymoon
+            family
+            friend
+            solo
+            group
+        religion
+        histricies
+        languages
+        Hill station
+        advencere
+        nightlife
+        festivel
+        blog(topical)
+            categorywise
