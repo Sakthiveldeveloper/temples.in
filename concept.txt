@@ -6,6 +6,11 @@ This project name is
                 peace.in 
                 bharth temples
 
+reference websites
+    https://traveltriangle.com/
+    https://www.holidify.com
+    https://www.tourism-of-india.com/
+    https://www.yatra.com
 
 category
         destination(northest,western,south,east)
