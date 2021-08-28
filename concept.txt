@@ -1,3 +1,4 @@
+    Temple Nation.Bharath
 Overview
     This project is based on indian incretable places and temples.
 mainly focus on indian clutures and temple.
@@ -6,27 +7,252 @@ This project name is
                 peace.in 
                 bharth temples
 
+Branding words
+    Discover our bharth
+    Discover our bharth temples
+    Discover your next Temple.
+    Destination with bharat temple.
+
 reference websites
     https://traveltriangle.com/
     https://www.holidify.com
+        Discover our next destination
     https://www.tourism-of-india.com/
     https://www.yatra.com
 
 category
-        destination(northest,western,south,east)
+        destination(
+            Northest,
+            Western,
+            South,
+            East
+        )
 
-        season(winter,summer,monsoon)
+        season(
+            Winter,
+            Summer,
+            Moonsoon
+        )
         package(like friend or family or girl friend)
-            romantic
-            honeymoon
-            family
-            friend
-            solo
-            group
-        religion
+        (
+            Romantic
+            Honeymoon
+            Family
+            Friend
+            Solo
+            Group
+        )
+        religion(
+            hinduism
+            Islam
+            Christian
+            Sikhism
+                Gurudwaras(23)
+                    Golden
+                reference
+                    https://www.holidify.com/collections/gurudwaras-in-india
+            buddhism
+                22
+                reference
+                    https://www.holidify.com/collections/buddhist-places-in-india
+            jainism
+                15
+                reference
+                    https://www.holidify.com/collections/jain-temples-in-india
+        )
+
+        heritage(parampariyam)
+            38 UNESCO World Heritage Sites in India
+                1. Taj Mahal, Agra
+                2. Khajuraho, Madhya Pradesh
+                3. Hampi, Karnataka
+                4. Ajanta Caves, Maharashtra
+                5. Ellora Caves, Maharashtra
+                6. Bodh Gaya, Bihar
+                7. Sun Temple, Konark, Odisha
+                8. Red Fort Complex, Delhi
+                9. Sanchi, Madhya Pradesh
+                10. Chola Temples, Tamil Nadu
+                11. Kaziranga Wild Life Sanctuary, Assam
+                12. Group of Monuments at Mahabalipuram, Tamil Nadu
+                13. Sundarbans National Park, West Bengal
+                14. Humayun’s Tomb, New Delhi
+                15. Jantar Mantar, Jaipur, Rajasthan
+                16. Agra Fort, Uttar Pradesh
+                17. Fatehpur Sikri, Uttar Pradesh
+                18. Rani Ki Vav, Patan, Gujarat
+                19. Group of Monuments at Pattadakal, Karnataka
+                20. Elephanta Caves, Maharashtra
+                21. Nalanda Mahavihara (Nalanda University), Bihar
+                22. Chhatrapati Shivaji Maharaj Terminus (formerly Victoria Terminus), Maharashtra
+                23. Mountain Railways of India
+                24. Qutub Minar and its Monuments, New Delhi
+                25. Champaner-Pavagadh Archaeological Park, Gujarat
+                26. Great Himalayan National Park, Himachal Pradesh
+                27. Hill Forts of Rajasthan
+                28. Churches and Convents of Goa
+                29. Rock Shelters of Bhimbetka, Madhya Pradesh
+                30. Manas Wild Life Sanctuary, Assam
+                31. Keoladeo National Park, Bharatpur, Rajasthan
+                32. Nanda Devi and Valley of Flowers National Parks, Uttarakhand
+                33. Western Ghats
+                34. Kanchenjunga National Park, Sikkim
+                35. Capitol Complex, Chandigarh
+                36. The Historic City of Ahmedabad
+                37. The Victorian and Art Deco Ensemble of Mumbai
+                38. The Pink City - Jaipur
+                39. Kumbh Mela
+                
+
+
+                List of UNESCO World Heritage Sites in India (State-wise)
+                State/UT
+
+                Uttar Pradesh
+                    Agra Fort (1983)
+                    Fatehpur Sikri (1986)
+                    Taj Mahal (1983)
+                    
+                Maharashtra
+
+                    Ajanta Caves (1983)
+                    Chhatrapati Shivaji Terminus (formerly Victoria Terminus) (2004)
+                    Elephanta Caves (1987)
+                    Ellora Caves (1983)
+                    Victorian Gothic and Art Deco Ensembles of Mumbai (2018)
+                    Western Ghats (2012)
+                Bihar
+
+                    Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar (2016)
+                    Mahabodhi Temple Complex at Bodh Gaya (2002)
+                    
+                Madhya Pradesh
+
+                    Buddhist Monuments at Sanchi (1989)
+                    Khajuraho Group of Monuments (1986)
+                    Rock Shelters of Bhimbetka (2003)
+                    
+                Gujarat
+
+                    Champaner-Pavagadh Archaeological Park (2004)
+                    Historic City of Ahmadabad (2017)
+                    Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat (2014)
+                    Western Ghats (2012)
+                
+                Goa
+
+                    Churches and Convents of Goa (1986)
+                    Western Ghats (2012)
+                
+                Tamil Nadu
+
+                    Great Living Chola Temples (1987,2004)
+                    Group of Monuments at Mahabalipuram (1984)
+                    Mountain Railways of India (1999,2005,2008)
+                    Western Ghats (2012)
+                Karnataka
+
+                    Group of Monuments at Hampi (1986)
+                    Group of Monuments at Pattadakal (1987)
+                    Western Ghats (2012)
+                
+                Rajasthan
+
+                    Hill Forts of Rajasthan (2013)
+                    Jaipur City, Rajasthan (2019)
+                    The Jantar Mantar, Jaipur (2010)
+                    Keoladeo National Park (1985)                
+                Delhi
+
+                    Humayun's Tomb, Delhi (1993)
+                    Qutb Minar and its Monuments, Delhi (1993)
+                    Red Fort Complex (2007)
+                    
+                Chandigarh
+
+                    The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (2016)
+                    
+                West Bengal
+
+                    Mountain Railways of India (1999,2005,2008)
+                    Sundarbans National Park (1987)
+                
+                Himachal Pradesh
+
+                    Mountain Railways of India (1999,2005,2008)
+                    Great Himalayan National Park Conservation Area (2014)
+                
+                Orissa
+
+                    Sun Temple, Konârak (1984)
+                    
+                Assam
+
+                    Kaziranga National Park (1985)
+                    Manas Wildlife Sanctuary (1985)
+                
+                Uttarakhand
+
+                    Nanda Devi and Valley of Flowers National Parks (1988,2005)
+                Kerala    
+                    Western Ghats (2012)
+                
+                Sikkim
+
+                    Khangchendzonga National Park (2016)
+
+            reference
+                https://www.holidify.com/pages/world-heritage-sites-in-india-1629.html
+        
         histricies
-        languages
+        languages(22)
+
+            Hindi
+            Bengali
+            Marathi
+            Telugu
+            Tamil
+            Gujarati
+            Urdu
+            Kannada
+            Odia (Oriya)
+            Malayalam
+            Punjabi
+            Bodo
+            Dogri
+            Kashmiri
+            Konkani
+            Maithili
+            Manipuri
+            Nepali
+            Sanskrit
+            Santali Language
+            Sindhi
+            Assamese
         Hill station
+            himalayan
+            Himachal Pradesh
+                Manali(HP)
+            Tamil Nadu
+                Ooty
+            West Bengal
+                Darjlinks
+            Jammu&Kashmir
+                Leh&Ladakh
+
+            Sikkim
+                GaGtok
+            Kerala
+                Munnar
+            Karnataka
+                Coorg
+            Maharashtra
+                mahabaleshwar
+            Mathya Pradesh
+                Pachmarhi
+            Uttarakhand
+                Rishikesh
+            
         advencere
         nightlife
         festivel
